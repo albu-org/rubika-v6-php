@@ -1,7 +1,7 @@
 
 <?php
 
-include "./crypto.php";
+include "rubika/crypto.php";
 
 class Rubika {
     private $auth;
